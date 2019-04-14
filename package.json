@@ -1,0 +1,12 @@
+{
+  "name": "react-primitives-input",
+  "version": "0.0.1-dev",
+  "description": "Primitive Input component for react-native and react-native-web",
+  "main": "index.js",
+  "repository": "https://github.com/brodybits/react-primitives-input",
+  "author": "Christopher J. Brody <chris@brody.consulting>",
+  "license": "MIT",
+  "dependencies": {
+    "object.omit": "^3.0.0"
+  }
+}
