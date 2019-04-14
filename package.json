@@ -1,6 +1,6 @@
 {
   "name": "react-primitives-input",
-  "version": "0.0.1-dev",
+  "version": "0.0.1",
   "description": "Primitive Input component for react-native and react-native-web",
   "main": "index.js",
   "repository": "https://github.com/brodybits/react-primitives-input",
