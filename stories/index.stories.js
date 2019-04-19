@@ -14,18 +14,6 @@ const Input = require('../TextInput.js')
 
 storiesOf('Welcome', module).add('to Storybook', () => <Welcome showApp={linkTo('Input')} />);
 
-/* ** TBD GONE:
-storiesOf('Button', module)
-  .add('with text', () => <Button onClick={action('clicked')}>Hello Button</Button>)
-  .add('with some emoji', () => (
-    <Button onClick={action('clicked')}>
-      <span role="img" aria-label="so cool">
-        😀 😎 👍 💯
-      </span>
-    </Button>
-  ));
-// */
-
 storiesOf('Input', module)
   .add('with style & placeholder', () => (
     <Input
