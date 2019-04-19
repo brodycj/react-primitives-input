@@ -15,11 +15,10 @@ const Input = require('../TextInput.js')
 storiesOf('Welcome', module).add('to Storybook', () => <Welcome showApp={linkTo('Input')} />);
 
 storiesOf('Input', module)
-  .add('with style and placeholder', () => (
+  .add('with style & placeholder', () => (
     <Input
       type='text'
       style={{height: 48}}
-      placeholder='Type here'
       placeholder='Type here'
     />
   ))
