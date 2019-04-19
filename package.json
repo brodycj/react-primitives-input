@@ -6,6 +6,10 @@
   "repository": "https://github.com/brodybits/react-primitives-input",
   "author": "Christopher J. Brody <chris@brody.consulting>",
   "license": "MIT",
+  "scripts": {
+    "start": "echo 'not supported' && exit 1",
+    "test": "echo 'not supported' && exit 1"
+  },
   "dependencies": {
     "object.omit": "^3.0.0"
   }
